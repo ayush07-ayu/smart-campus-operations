@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Operations & Workforce Management",
+  "description": "Comprehensive workforce scheduling, duty roster, department workflows, fleet, hostel, mess, maintenance and security management with automated scheduling and AI operations assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
