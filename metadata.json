@@ -1,6 +1,6 @@
 {
-  "name": "Smart Campus Operations & Workforce Management",
-  "description": "Comprehensive workforce scheduling, duty roster, department workflows, fleet, hostel, mess, maintenance and security management with automated scheduling and AI operations assistant.",
+  "name": "MMU SMART CAMPUS — AI-Powered University Operations & Student Services Platform",
+  "description": "Maharishi Markandeshwar University (MMU Mullana) smart campus operations, timetable scheduling, faculty substitution, student services, grievances, and AI campus assistant.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

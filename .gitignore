@@ -7,5 +7,4 @@ coverage/
 .env*
 !.env.example
 
-# Local campus database
 campus_db.json
